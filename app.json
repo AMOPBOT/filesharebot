@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "6481198342:AAG-j7gPfXbhU-Z1kqIlDwvw5ytwZ5-hVxQ"
+      "value": "6335671691:AAHuSx_o23LPKGs5XsMm64IJfz9KztsPT7U"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -35,15 +35,15 @@
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-1001987535452"
+      "value": "-1001819780287"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "-1001987535452"
+      "value": "-1001581753723"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link.\n\nJoin Here : https://t.me/+L1QXMLRF_6tiNGVl"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
@@ -51,7 +51,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "5360305806",
+      "value": "6204761408 5360305806 6029628148",
       "required": false
     },
     "PROTECT_CONTENT": {
